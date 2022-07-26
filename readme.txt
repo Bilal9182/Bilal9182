@@ -1,6 +1,6 @@
 We have wrote the code in the following way to operate andy:
 
-You have to Say "Wake up" first so that it can go into listening mode.
+You have to Say "Wake up" after clicking on run tab in gui window first so that it can go into listening mode.
 
 1. It can send emails. 
 2. It can read PDF.
